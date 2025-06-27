@@ -13,6 +13,7 @@
 
 #include "OLED.h"
 #include "ICM42688.h"
+#include "Mahony.h"
 
 extern float icm42688_iic_acc_inv;
 extern float icm42688_iic_gyro_inv;

@@ -719,6 +719,16 @@
               <FileType>5</FileType>
               <FilePath>.\Hardware\ICM42688_Reg.h</FilePath>
             </File>
+            <File>
+              <FileName>Mahony.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\Hardware\Mahony.c</FilePath>
+            </File>
+            <File>
+              <FileName>Mahony.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\Hardware\Mahony.h</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
